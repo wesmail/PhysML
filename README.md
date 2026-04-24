@@ -1,8 +1,9 @@
-# From χ² to Normalising Flows — ML from Scratch for Physicists
+# From $\chi^{2}$ to Normalising Flows: ML from Scratch for Physicists
 
 [![License: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
 [![License: CC BY 4.0](https://img.shields.io/badge/prose-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wesmail/PhysML/blob/main/tutorial_01_regression.ipynb)
 
 A step-by-step tutorial series taking you from linear regression all the way to
 normalising flows, the generative models now used in gravitational wave parameter
@@ -133,7 +134,7 @@ credit and link back to the original.
 ```
 MIT License
 
-Copyright (c) 2025 Waleed Esmail
+Copyright (c) 2026 Waleed Esmail
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -162,7 +163,7 @@ If you use this material in your research or teaching, a citation is appreciated
 @misc{esmail2025mlfromscratch,
   author = {Esmail, Waleed},
   title  = {From {$\chi^2$} to Normalising Flows: {ML} from Scratch for Physicists},
-  year   = {2025},
+  year   = {2026},
   url    = {https://wesmail.github.io/contents/blogs/ml-from-scratch/},
   note   = {Blog series and companion code}
 }
